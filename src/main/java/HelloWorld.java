@@ -3,7 +3,7 @@ import javax.swing.*;
 public class HelloWorld extends JFrame{
     private JPanel panel1;
     private JLabel lblMensagem;
-
+    private JLabel lbMensagem;
     
     public HelloWorld(){
         setContentPane(panel1);
